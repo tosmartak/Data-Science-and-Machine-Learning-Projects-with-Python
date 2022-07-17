@@ -1,4 +1,4 @@
-# My Portfolio of Data Science Projects Completed Using Python
+# My Portfolio of Data Science and Machine Learning Projects Completed Using Python
 Below is the list and summary of all the data science projects I have completed using the python programming language. Each of the project is linked to its own respository for further details and to deep dive into the content and the codes.
 
 - [Heart Disease Prediction](https://github.com/tosmartak/Data-Science-with-Python-Projects/blob/main/Heart%20Disease%20Prediction%20-%20Classification/end-to-end-heart-disease-classification.ipynb): Built an end-to-end classification machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes. Experimentation still in progress, but currently with a baseline accuracy score of 88.5% and 5 cross validation accuracy score of 84% on the test data. The aim is to get at least 95% accuracy score after several experimentations with different models and hyperparameter tuning.
